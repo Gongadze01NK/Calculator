@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Gongadze01NK/Calculator.git/static/css/main.1927d451.css",
+    "main.js": "/Gongadze01NK/Calculator.git/static/js/main.918ebf15.js",
+    "index.html": "/Gongadze01NK/Calculator.git/index.html",
+    "main.1927d451.css.map": "/Gongadze01NK/Calculator.git/static/css/main.1927d451.css.map",
+    "main.918ebf15.js.map": "/Gongadze01NK/Calculator.git/static/js/main.918ebf15.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1927d451.css",
+    "static/js/main.918ebf15.js"
+  ]
+}
